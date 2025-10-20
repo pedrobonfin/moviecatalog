@@ -1,0 +1,162 @@
+[
+    {
+        "imdbID": "tt0111161",
+        "Title": "The Shawshank Redemption",
+        "Year": "1994",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/d/d2/The_Shawshank_Redemption_p%C3%B4ster.png/250px-The_Shawshank_Redemption_p%C3%B4ster.png",
+        "Plot": "Dois homens presos criam um vínculo ao longo de anos...",
+        "Director": "Frank Darabont",
+        "Actors": "Tim Robbins, Morgan Freeman",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0068646",
+        "Title": "The Godfather",
+        "Year": "1972",
+        "Poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/05/18171642/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "Plot": "A história da família mafiosa Corleone...",
+        "Director": "Francis Ford Coppola",
+        "Actors": "Marlon Brando, Al Pacino",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt7286456",
+        "Title": "Coringa",
+        "Year": "2019",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg",
+        "Plot": "A história de Arthur Fleck, um homem ignorado pela sociedade que, após uma sequência de humilhações e sofrimento, mergulha na loucura e se transforma no temido Coringa...",
+        "Director": "Todd Phillips",
+        "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Shea Whigham, Bill Camp",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt11032374",
+        "Title": "Demon Slayer - Mugen Train: O Filme",
+        "Year": "2020",
+        "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/20/08/03/10/14/5958342.jpg",
+        "Plot": "Tanjiro Kamado e seus companheiros caçadores de demônios embarcam em um trem misterioso para investigar o desaparecimento de várias pessoas...",
+        "Director": "Haruo Sotozaki",
+        "Actors": "Natsuki Hanae, Akari Kitō, Hiro Shimono, Yūichi Nakamura, Takahiro Sakurai, Daisuke Hirakawa",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt22898462",
+        "Title": "Invocação do Mal 4: O Último Ritual",
+        "Year": "2025",
+        "Poster": "https://cinemaritanhaem.com.br/wp-content/uploads/2025/08/invocacao_do_mal_4.jpg",
+        "Plot": "A história de Ed e Lorraine Warren, que enfrentam seu caso mais perigoso até agora...",
+        "Director": "Michael Chaves",
+        "Actors": "Patrick Wilson, Vera Farmiga, Steve Coulter, Shaunette Renee Wilson, Emily Brobst",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt1013752",
+        "Title": "Velozes e Furiosos 4",
+        "Year": "2009",
+        "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/210/445/21044501_2013092621313492.jpg",
+        "Plot": "A história de Dominic Toretto e Brian O’Conner, que se reencontram após anos para enfrentar uma nova ameaça no mundo das corridas de rua e do crime...",
+        "Director": "Justin Lin",
+        "Actors": "Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster, John Ortiz, Gal Gadot",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt6718170",
+        "Title": "Super Mario Bros. O Filme",
+        "Year": "2023",
+        "Poster": "https://www.universalpics.com.br/tl_files/content/movies/super_mario_bros/posters/07.jpg",
+        "Plot": "A história de Mario e Luigi, dois irmãos encanadores que entram no Reino dos Cogumelos para resgatar Luigi das garras de Bowser...",
+        "Director": "Aaron Horvath e Michael Jelenic",
+        "Actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt14331144",
+        "Title": "Jujutsu Kaisen 0",
+        "Year": "2021",
+        "Poster": "https://sm.ign.com/ign_pt/screenshot/default/jujutsu-kaisen-filme-0-poster-promocional_y3jj.jpg",
+        "Plot": "A história de Yuta Okkotsu, um jovem estudante amaldiçoado por um espírito poderoso, que entra na Escola Jujutsu de Tóquio para aprender a controlar sua maldição...",
+        "Director": "Sunghoo Park",
+        "Actors": "Megumi Ogata, Kana Hanazawa, Rie Kugimiya, Yuichi Nakamura, Junichi Suwabe",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt1482459",
+        "Title": "O Lorax: Em Busca da Trúfula Perdida",
+        "Year": "2012",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/5/55/Lorax-poster.jpg",
+        "Plot": "A história de Ted, um jovem curioso que vive em uma cidade sem árvores, que embarca em uma aventura para encontrar a última Trúfula e salvar a natureza...",
+        "Director": "Chris Renaud",
+        "Actors": "Danny DeVito, Ed Helms, Zac Efron, Taylor Swift, Rob Riggle",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt9362722",
+        "Title": "Homem-Aranha: Através do Aranhaverso",
+        "Year": "2023",
+        "Poster": "https://br.web.img2.acsta.net/c_310_420/pictures/23/05/17/22/43/4869322.jpg",
+        "Plot": "A história de Miles Morales, que atravessa o multiverso e encontra diferentes versões do Homem-Aranha...",
+        "Director": "Joaquim Dos Santos, Kemp Powers e Justin K. Thompson",
+        "Actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Luna Lauren Velez, Jake Johnson, Oscar Isaac",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt22898462",
+        "Title": "Invocação do Mal 4: O Último Ritual",
+        "Year": "2025",
+        "Poster": "https://cinemaritanhaem.com.br/wp-content/uploads/2025/08/invocacao_do_mal_4.jpg",
+        "Plot": "A história de Ed e Lorraine Warren, que enfrentam seu caso mais perigoso até agora...",
+        "Director": "Michael Chaves",
+        "Actors": "Patrick Wilson, Vera Farmiga, Steve Coulter, Shaunette Renee Wilson, Emily Brobst",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt4116284",
+        "Title": "LEGO Batman: O Filme",
+        "Year": "2017",
+        "Poster": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/18855-cartaz.jpg",
+        "Plot": "A história de Batman tentando salvar Gotham City enquanto aprende a aceitar ajuda e a responsabilidade de ser uma figura paterna para Robin...",
+        "Director": "Chris McKay",
+        "Actors": "Will Arnett, Michael Cera, Rosario Dawson, Ralph Fiennes, Zach Galifianakis, Marion Cotillard, Jenny Slate, Billy Dee Williams, Conrad Vernon",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt2637276",
+        "Title": "Ted 2",
+        "Year": "2015",
+        "Poster": "//br.web.img3.acsta.net/c_310_420/pictures/15/06/29/19/57/532979.jpg",
+        "Plot": "O urso de pelúcia Ted e sua esposa Tami-Lynn enquanto lutam na justiça para provar que Ted é uma pessoa legalmente reconhecida, enfrentando desafios engraçados e absurdos para tentar construir uma família...",
+        "Director": "Seth MacFarlane",
+        "Actors": "Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Giovanni Ribisi, Jessica Barth, Morgan Freeman, Liam Neeson",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0385880",
+        "Title": "A Casa Monstro",
+        "Year": "2006",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/8/8d/Monster_House.jpg/250px-Monster_House.jpg",
+        "Plot": "A história acompanha três adolescentes que descobrem que a casa de um vizinho é, na verdade, um monstro vivo...",
+        "Director": "Gil Kenan",
+        "Actors": "Mitchel Musso, Sam Lerner, Spencer Locke, Steve Buscemi, Catherine O'Hara, Jon Heder",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt30955489",
+        "Title": "Until Dawn: Noite de Terror",
+        "Year": "2025",
+        "Poster": "https://br.web.img2.acsta.net/c_310_420/img/ef/d3/efd3cc219ec876e4599b8975908e5ee4.jpg",
+        "Plot": "A história acompanha um grupo de amigos que, presos em um loop mortal durante a noite, precisam enfrentar forças misteriosas e perigosas para sobreviver até o amanhecer...",
+        "Director": "David Bruckner",
+        "Actors": "Ella Rubin, Michael Cimino, Odessa A'zion, Ji-Young Yoo, Belmont Cameli, Maia Mitchell, Peter Stormare, David Sandberg",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt33175825",
+        "Title": "Attack on Titan: O Último Ataque",
+        "Year": "2024",
+        "Poster": "https://preview.redd.it/attack-on-titan-the-last-attack-new-key-visual-v0-nneaoxhgblod1.jpg?width=640&crop=smart&auto=webp&s=a272cba621f6a5a37d985c02ab8a01ebf1cbe8c1",
+        "Plot": "A história acompanha Eren Yeager e seus aliados enquanto ele libera o poder supremo dos Titãs, enfrentando inimigos e tomando decisões drásticas para proteger Eldia e concluir sua batalha final...",
+        "Director": "Shūhei Yabuta",
+        "Actors": "Marina Inoue, Yūki Kaji, Yui Ishikawa, Hiroshi Kamiya, Takehito Koyasu, Shiori Mikami",
+        "Type": "movie"
+    }
+]
